@@ -7,6 +7,8 @@
 
 <!-- 徽章组：英文显示，flat-square简约样式，适合作业仓库 -->
 <p>
+<!-- 进行中 In Progress 橙色 -->
+<!-- <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square"/> -->
 <!-- 状态：Completed 已完成，绿色success -->
 <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
 <!-- 技术栈标签，自行修改后面文字 -->
