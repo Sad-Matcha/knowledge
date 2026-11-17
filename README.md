@@ -1,8 +1,12 @@
-<!-- 语言切换按钮 -->
+<!-- 语言切换栏：当前是英文页面，English按钮高亮，中文置灰 -->
 <div align="center">
-<a href="./README.zh.md"><kbd>Chinese</kbd></a>
+<!-- 当前语言：激活蓝底 -->
+<img src="https://img.shields.io/badge/English-1E88E5?style=for-the-badge&logo=github&logoColor=white" alt="English">
 &nbsp;&nbsp;
-<a href="./README.md"><kbd>English</kbd></a>
+<!-- 非当前语言：灰色、可点击跳转中文 -->
+<a href="./README.zh.md">
+<img src="https://img.shields.io/badge/中文-757575?style=for-the-badge&logo=github&logoColor=white" alt="Chinese">
+</a>
 </div>
 
 <!-- 居中容器，标题区域 -->
