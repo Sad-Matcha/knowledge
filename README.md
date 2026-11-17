@@ -1,3 +1,10 @@
+<!-- 语言切换按钮 -->
+<div align="center">
+<a href="./README.zh.md"><kbd>Chinese</kbd></a>
+&nbsp;&nbsp;
+<a href="./README.md"><kbd>English</kbd></a>
+</div>
+
 <!-- 居中容器，标题区域 -->
 <div align="center">
 <h1>📚 Course Assignments Repository</h1>
