@@ -47,3 +47,4 @@ Please read the following carefully before use!
 ## ❓ How to use?
 Simply download the file, locate it where you saved it, and open it.
 As shown in the figure:
+<img width="1886" height="354" alt="image" src="https://github.com/user-attachments/assets/31bff324-f0a4-4bf3-b1ee-eff9a86dbe9b" />
