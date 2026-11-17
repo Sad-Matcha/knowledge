@@ -36,3 +36,14 @@ All works are for course learning and submission only.
 ## ❗ Remarks
 
 All finished assignments are placed inside each date-labelled assignment folder.
+
+Please read the following carefully before use!
+
+1. Press the **Windows** (four-pane logo) key + **Tab** key (to the left of Q) to open the Task View.
+2. Select **New desktop** (Desktop 2).
+3. Press **Ctrl + Windows + ← (Left Arrow)** to switch back to Desktop 1.
+4. Likewise, press **→ (Right Arrow)** to switch to Desktop 2.
+
+## ❓ How to use?
+Simply download the file, locate it where you saved it, and open it.
+As shown in the figure:
